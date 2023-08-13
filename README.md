@@ -25,5 +25,8 @@ This project showcases a basic chat application created using HTML and CSS. It a
 * Thunder icons created by Freepik - Flaticon - https://www.flaticon.com/free-icons/thunder
 * Rain icons created by iconixar - Flaticon - https://www.flaticon.com/free-icons/rain
 * CSS styling inspired by Alzea Arafat
-        
+
+# Note
+Feel free to explore the code and use it as a learning resource for creating simple web applications using HTML and CSS.
+The CSS approach used targets the elements directly so be careful when editing the code.
         

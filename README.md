@@ -14,8 +14,8 @@ This project showcases a basic chat application created using HTML and CSS. It a
 
 
 # Screenshots
+![Screenshot (45)](https://github.com/kiddmetro/Chat-App/assets/58137818/0ae5adfc-e63e-4ba4-8342-01ad09e16a43)
 
-![Chat_app_screenshot](https://github.com/kiddmetro/Chat-App/assets/58137818/040feeb8-2ba6-4b08-a9d3-1abbe066ad5d)
 
 # Credits
 * Moon icons created by Freepik - Flaticon - https://www.flaticon.com/free-icons/moon
